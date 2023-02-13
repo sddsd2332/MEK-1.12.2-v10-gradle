@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>MCMultiPart2</groupId>
+  <artifactId>MCMultiPart</artifactId>
+  <version>2.5.3</version>
+  <name>MCMultiPart</name>
+  <description>MCMultiPart</description>
+  <url>https://github.com/amadornes/MCMultiPart</url>
+  <licenses>
+    <license>
+      <name>MIT</name>
+      <url>https://github.com/amadornes/MCMultiPart/blob/master/LICENSE</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>amadornes</id>
+      <name>amadornes</name>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git@github.com:amadornes/MCMultiPart.git</connection>
+    <developerConnection>scm:git:git@github.com:amadornes/MCMultiPart.git</developerConnection>
+    <url>https://github.com/amadornes/MCMultiPart</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/amadornes/MCMultiPart/issues</url>
+  </issueManagement>
+</project>

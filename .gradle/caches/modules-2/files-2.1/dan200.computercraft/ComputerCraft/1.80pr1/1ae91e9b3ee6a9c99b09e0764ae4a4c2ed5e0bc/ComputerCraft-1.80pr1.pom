@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dan200.computercraft</groupId>
+  <artifactId>ComputerCraft</artifactId>
+  <version>1.80pr1</version>
+  <name>ComputerCraft</name>
+  <description>Programmable Computers for Minecraft</description>
+  <url>https://github.com/dan200/ComputerCraft</url>
+  <licenses>
+    <license>
+      <name>ComputerCraft Public License</name>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/dan200/ComputerCraft.git</url>
+  </scm>
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/dan200/ComputerCraft/issues</url>
+  </issueManagement>
+</project>
